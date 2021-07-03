@@ -1,3 +1,4 @@
+//window.location.href = "page/profile.html"
 const story_container = document.querySelector('.story-container')
 const story = document.querySelector('.story-container').innerHTML
 

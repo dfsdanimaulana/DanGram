@@ -63,18 +63,19 @@ nav .nav-option {
 .profile-caption h6 {
     font-weight: bold;
 }
-.profile-edit {
-    text-align: center;
+.profile-btn {
+    width: 100%;
+    box-sizing: border-box;
 }
-.btn-edit {
-    width: 200px;
-    height: 35px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
-    margin: 10px auto;
-    border: 2.5px solid #3d3c3c;
-    background-color: black;
+.btn-follow {
+
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    border: 2.5px solid #009af5;
+    background-color: #009fff;
     color: white;
 }
 /* profile end  */

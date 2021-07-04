@@ -18,8 +18,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-right: 15px;
 }
+
 .nav-items {
     width: 70px;
 }
@@ -31,8 +31,8 @@ nav {
     border-radius: 50%;
 }
 .nav-header a i {
-    margin-right: 15px;
     font-size: 30px;
+    margin-right: 10px;
 }
 
 /* nav end */
@@ -50,6 +50,7 @@ nav {
     top: 60px;
     overflow: auto;
     margin: 0 auto;
+    background-color: #111a1c;
 }
 .msg {
     margin: 5px;

@@ -1,4 +1,4 @@
-//window.location.href = "src/pages/chat_room.html"
+window.location.href = "src/pages/follow.html"
 const story_container = document.querySelector('.story-container')
 const story = document.querySelector('.story-container').innerHTML
 

@@ -11,7 +11,7 @@
 .chat-search {
   font-size: 17px;
   background-color: rgb(66, 63, 63);
-  border-radius: 7px;
+  border-radius: 3px;
   padding: 7px;
   text-align: left;
   color: rgb(185, 182, 182);
@@ -20,15 +20,20 @@
 .chat-search i {
   margin: 10px;
 }
+.chat-search input {
+  background-color: rgb(66, 63, 63);
+  border: none;
+  font-size: 15px;
+  outline-style: none;
+}
 .box {
-    margin: 15px 0;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 2px;
-
+  margin: 15px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2px;
 }
 .box img {
-    width: 100%;
+  width: 100%;
 }
 /* menu bottom */
 .menu-bottom {
